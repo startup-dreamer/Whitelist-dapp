@@ -9,4 +9,4 @@ The app is has been deployed in goerli test-net with the
 
 ### Deployment
 
-The app is deployed using vercel deploymant and you can use it [here](https://whitelist-dapp-bide-7izd740u0-startup-dreamer.vercel.app/)
+The app is deployed using vercel deploymant and you can use it [dapps link](https://whitelist-dapp-bide-7izd740u0-startup-dreamer.vercel.app/)
